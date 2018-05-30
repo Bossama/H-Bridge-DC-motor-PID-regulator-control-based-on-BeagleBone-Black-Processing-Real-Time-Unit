@@ -10,3 +10,7 @@ Generate a PWM signal from the BeagleBone Black PRU*, in order to change the mot
  
 Finishing the project by creating a graphic user interface IHM using GTK library.
 
+
+
+program files will uploading soon...
+
